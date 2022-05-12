@@ -1,4 +1,4 @@
-Feature: Free CRM Application Test
+Feature: Free CRM Application Test Feature
 
 Scenario: Validate Free CRM Home Page Test 
 
