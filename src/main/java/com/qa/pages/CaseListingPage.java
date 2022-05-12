@@ -1,5 +1,14 @@
 package com.qa.pages;
 
-public class CaseListingPage {
+import org.openqa.selenium.WebDriver;
+
+import com.qa.util.TestBase;
+
+public class CaseListingPage extends TestBase{
+	
+	public CaseListingPage(WebDriver driver)
+	{
+		this.driver=driver;
+	}
 
 }
