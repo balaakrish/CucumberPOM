@@ -15,7 +15,7 @@ public class TestBase {
 	
 	public TestBase()
 	{
-		try
+
 		{
 			prop = new Properties();
 			FileInputStream fis = new FileInputStream("C:\\Users\\balachandar.k\\eclipse-workspace\\CucumberMavenPOM\\src\\main\\java\\com\\qa\\config\\config.properties");

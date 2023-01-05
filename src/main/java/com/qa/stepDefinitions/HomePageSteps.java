@@ -12,7 +12,7 @@ public class HomePageSteps extends TestBase {
 	
 	LoginPage loginPage;
 	HomePage homePage;
-	
+	//Sample Script
 	@Given("user opens browser")
 	public void user_opens_browser() {
 	    TestBase.initialization();
