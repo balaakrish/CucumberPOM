@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.qa.util.TestBase;
-
+//Home Page class
 public class HomePage extends TestBase{
 	
 @FindBy(xpath="//td[contains(text(),'User: Naveen K')]")

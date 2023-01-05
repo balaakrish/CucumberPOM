@@ -7,7 +7,7 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 import com.qa.util.TestBase;
-
+//Login Page Class
 public class LoginPage extends TestBase {
 	
 	@FindBy(how=How.XPATH, using="\r\n"
